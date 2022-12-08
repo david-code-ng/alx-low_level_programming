@@ -2,11 +2,11 @@
 #include <unistd.h>
 
 /**
- *  * main - print quote
- *   *
- *    * Description: prints Dors's quote
- *     *
- *      * Return: Always 1 (Success)
+ * main - print quote
+ *
+ * Discription: prints Dors's quote
+ *
+ * Return: Always 1 (Success)
  *    
  */
 
